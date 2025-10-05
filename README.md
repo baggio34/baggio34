@@ -1,8 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou Gabriel A. Baggio Varnier</h1>
 
 <p align="center">
-  Desenvolvedor focado em Python e tecnologias web.<br>
-  Usuário Linux, curioso por natureza, apaixonado por resolver problemas com código.
+  Desenvolvedor focado em aprender cada vez mais!<br>
 </p>
 
 ---
