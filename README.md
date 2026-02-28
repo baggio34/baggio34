@@ -19,11 +19,7 @@ Atualmente estou aprofundando meus conhecimentos em:
 - ⚙️ Backend com NestJS
 
 ---
-## 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baggio34&layout=compact&theme=tokyonight)
-
----
 ## 🌎 Línguas
 
 - 🇧🇷 **Português** — Fluente (nativo)
