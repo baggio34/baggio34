@@ -80,5 +80,5 @@ Evoluir como desenvolvedor fullstack, dominando profundamente as ferramentas nec
 ---
 
 <p align="center">
-  ⚡ Foco em evolução técnica contínua.
+  ⚡ 1% melhor a cada dia.
 </p>
