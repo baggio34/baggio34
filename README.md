@@ -1,60 +1,84 @@
-<h1 align="center">👋 Olá! Eu sou Gabriel A. Baggio Varnier</h1>
+<h1 align="center">🚀 Gabriel A. Baggio Varnier</h1>
 
 <p align="center">
-  Desenvolvedor focado em aprender cada vez mais!<br>
+  Fullstack em formação | React • TypeScript • NestJS <br/>
+  Estudante de Ciência da Computação (UFSC)
 </p>
 
 ---
 
-### 💼 Sobre mim
+## 👨‍💻 Sobre mim
 
-- 🐍 Tenho conhecimentos em **Python**, especialmente no framework **Django**.
-- 🌐 Possuo conhecimentos em **HTML5** e **CSS3**.
-- 🗃️ Interessado e com conhecimentos básicos em **SQL**.
-- 🧠 Atualmente aprendendo **Java** para expandir minha stack.
-- 🖧 Também estudo **VHDL**.
-- 🐧 Uso **Linux** como sistema principal e gosto de entender como tudo funciona "por baixo".
+Sou estudante de Ciência da Computação focado em desenvolvimento fullstack mas interessado em outras áreas da computação também.
 
----
+Atualmente estou aprofundando meus conhecimentos em:
 
-### 🚀 Tecnologias & Ferramentas que utilizo e estudo
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <img align="center" alt="Django" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  
-  <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-
-  <img align="center" alt="Linux" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  
-  <img align="center" alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
-  <img align="center" alt="VHDL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vhdl/vhdl-plain.svg">
-
-</div>
+- ⚛️ React (arquitetura de componentes, estado, organização de projeto)
+- 🟦 TypeScript aplicado tanto no frontend quanto no backend
+- 🧠 Algoritmos e Estruturas de Dados
+- ⚙️ Backend com NestJS
 
 ---
 
-### 📌 Interesses atuais
+## 🌎 Línguas
 
-- 🔍 Aprimorar lógica e estrutura de dados
-- 🧱 Criar projetos com Django e futuramente com Java
-- 🖥️ Contribuir com comunidades Python e Linux
-- 🌱 Dominar as linguagens que estou estudando
-- 🖧 Em um futuro mais distante me especializar em IA
+- 🇧🇷 **Português** — Fluente (nativo)
+- 🇺🇸 **Inglês** — Fluente
+- 🇩🇪 **Alemão** — Básico (em estudo)
 
 ---
 
-### ✉️ Contato
+## 🧠 Stack Atual
 
-- 📧 gabrielbaggio65@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/gabriel-baggio-02a489265)
+### 🎨 Frontend
+- React
+- TypeScript
+- HTML5
+- CSS3
+- Consumo de APIs REST
+- Organização de componentes
+
+### ⚙️ Backend
+- NestJS
+- Node.js
+- Criação de APIs REST
+- Estruturação básica de projetos backend
+- Integração com banco de dados
+
+### 🗄️ Banco de Dados
+- PostgreSQL
+- SQL
+
+### 🛠️ Outros conhecimentos
+- Python 
+- Java 
+- Linux 
+- Git & GitHub
+- VHDL para design de hardware
 
 ---
 
-<p align="center">📌 Sempre aprendendo e buscando mais conhecimento.</p>
+## 📚 Atualmente estudando
+
+- Estruturas de dados (pilhas, filas, listas, árvores...)
+- Resolução de problemas de algoritmos e estruturas de dados (LeetCode / exercícios práticos)
+- Boas práticas com React + TypeScript
+
+---
+
+## 🎯 Objetivo
+
+Evoluir como desenvolvedor fullstack, dominando profundamente as ferramentas necessárias e construindo bases sólidas em algoritmos para atuar em projetos de alta qualidade técnica.
+
+---
+
+## 📫 Contato
+
+- ✉️ Email: gabrielbaggio65@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/gabriel-baggio-02a489265
+
+---
+
+<p align="center">
+  ⚡ Foco em evolução técnica contínua.
+</p>
