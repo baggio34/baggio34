@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Ciência da Computação focado em desenvolvimento fullstack mas interessado em outras áreas da computação também.
+Sou estudante de Ciência da Computação focado em desenvolvimento fullstack mas interessado também em outras áreas da computação.
 
 Atualmente estou aprofundando meus conhecimentos em:
 
