@@ -19,6 +19,10 @@ Atualmente estou aprofundando meus conhecimentos em:
 - ⚙️ Backend com NestJS
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baggio34&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+</p>
+---
 
 ## 🌎 Línguas
 
