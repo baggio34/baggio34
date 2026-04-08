@@ -20,11 +20,11 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baggio34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="https://gh-stats-gen.vercel.app/api?username=baggio34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baggio34&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="https://gh-stats-gen.vercel.app/api/top-langs/?username=baggio34&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 ---
 
