@@ -23,12 +23,14 @@ Atualmente estou aprofundando meus conhecimentos em:
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-mu-ruby-27.vercel.app/api?username=baggio34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats-mu-ruby-27.vercel.app/api?username=baggio34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-mu-ruby-27.vercel.app/api/top-langs/?username=baggio34&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats-mu-ruby-27.vercel.app/api/top-langs/?username=baggio34&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true&v=1"/>
 </p>
+
+
 ---
 
 ## 🌎 Línguas
