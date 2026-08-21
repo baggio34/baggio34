@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/gabriel-a-baggio-varnier-02a489265/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
   </a>
+  <a href="https://gitlab.com/GabrielABVarnierWork" target="_blank">
+    <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank" alt="GitLab">
+  </a>
   <a href="mailto:gabrielbaggio.work@gmail.com">
     <img src="https://img.shields.io/badge/Work_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Work Email">
   </a>
