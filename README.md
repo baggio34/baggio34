@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Gabriel A. Baggio Varnier</h1>
 
 <p align="center">
-  <b>Desenvolvedor de Software | Fullstack & Low-Level | Estudante de Ciência da Computação (UFSC)</b>
+  <b>Software Developer | Fullstack & Low-Level | Computer Science Student (UFSC)</b>
 </p>
 
 <div align="center">
@@ -18,15 +18,15 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About me
 
-Sou estudante de Ciência da Computação na Universidade Federal de Santa Catarina (UFSC) com um perfil técnico bastante versátil. Comecei me aprofundando no ecossistema Web (Fullstack), mas tenho expandido cada vez mais minha atuação para áreas fundamentais da computação.
+I am a Computer Science student at the Federal University of Santa Catarina (UFSC) with a highly versatile technical profile. I started by diving deep into the Web ecosystem (Fullstack), but I have increasingly expanded my focus to fundamental areas of computer science.
 
-Gosto de entender como as coisas funcionam "por debaixo dos panos". Isso me leva a transitar desde a criação de interfaces e APIs até o desenvolvimento de baixo nível, lidando com concorrência, estruturas de dados complexas e integrações de sistemas.
+I like to understand how things work under the hood. This drives me to transition seamlessly from creating interfaces and APIs to low-level development, dealing with concurrency, complex data structures, and system integrations.
 
 ---
 
-## 🧠 Tecnologias e Ferramentas
+## 🧠 Technologies and Tools
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -40,51 +40,51 @@ Gosto de entender como as coisas funcionam "por debaixo dos panos". Isso me leva
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 🛠️ Low-Level & Sistemas
+### 🛠️ Low-Level & Systems
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly_MIPS-blue?style=for-the-badge)
 
-### 🗄️ Banco de Dados & ORM
+### 🗄️ Database & ORM
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-LightGrey?style=for-the-badge&logo=postgresql)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-### 🐧 Infraestrutura & Outros
+### 🐧 Infrastructure & Others
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Foco de Desenvolvimento
+## 🚀 Development Focus
 
-Tenho trabalhado ativamente com um leque variado de desafios práticos:
-- **Desenvolvimento Fullstack:** Criação de APIs robustas (NestJS, Django) e consumo via aplicações modernas com React.
-- **Integrações:** Construção de fluxos complexos para conectar diferentes serviços e APIs.
-- **Sistemas e Baixo Nível:** Implementação de estruturas de dados avançadas, análise de grafos, programação concorrente e compreensão de arquitetura de hardware e Assembly.
-
----
-
-## 📚 Atualmente estudando
-
-- Desenvolvimento Web e boas práticas (Arquitetura de software).
-- Arquitetura de Computadores e Programação de Baixo Nível.
-- Estruturas de Dados e Algoritmos (Resolução de problemas de lógica).
-- Segurança da Informação e Redes.
-- Inteligência Artificial.
+I have been actively working with a diverse range of practical challenges:
+- **Fullstack Development:** Building robust APIs (NestJS, Django) and consuming them via modern React applications.
+- **Integrations:** Building complex workflows to connect different services and APIs.
+- **Systems and Low-Level:** Implementing advanced data structures, graph analysis, concurrent programming, and understanding hardware architecture and Assembly.
 
 ---
 
-## 🌎 Idiomas
+## 📚 Currently studying
 
-- 🇧🇷 **Português** — Fluente (nativo)
-- 🇺🇸 **Inglês** — Fluente
-- 🇩🇪 **Alemão** — Básico (em estudo)
-- 🇫🇷 **Francês** — Básico (em estudo)
+- Web Development and best practices (Software Architecture).
+- Computer Architecture and Low-Level Programming.
+- Data Structures and Algorithms (Logic problem solving).
+- Information Security and Networking.
+- Artificial Intelligence.
+
+---
+
+## 🌎 Languages
+
+- 🇧🇷 **Portuguese** — Fluent (Native)
+- 🇺🇸 **English** — Fluent
+- 🇩🇪 **German** — Basic (Learning)
+- 🇫🇷 **French** — Basic (Learning)
 
 ---
 
 <p align="center">
-  ⚡ <i>1% melhor a cada dia.</i>
+  ⚡ <i>1% better every day.</i>
 </p>
