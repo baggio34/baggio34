@@ -27,6 +27,8 @@ I am a Computer Science student at the Federal University of Santa Catarina (UFS
 
 I like to understand how things work under the hood. This drives me to transition seamlessly from creating interfaces and APIs to low-level development, dealing with concurrency, complex data structures, and system integrations.
 
+> 💡 **Note:** A large part of my web development work is currently in private repositories. If you'd like to see my daily contribution activity and the languages I use the most, feel free to check out my [GitLab profile](https://gitlab.com/GabrielABVarnierWork)!
+
 ---
 
 ## 🧠 Technologies and Tools
